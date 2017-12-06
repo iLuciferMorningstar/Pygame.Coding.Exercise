@@ -1,5 +1,5 @@
 # Pygame.Coding.Exercise
-Chinelas vs Baratinhas: Chinena's Doom]
+Chinelas vs Baratinhas: Chinena's Doom
 
 O jogo é bem simples.
 Você toma controle de uma baratinha, e tem que desviar dos chinelos arremessados em você. Cada vez que esquivar de um, o próximo virá mais rápido.
